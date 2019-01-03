@@ -1,0 +1,63 @@
+/* External Stylesheet for 'indians.html'   */
+
+body
+{
+
+}
+
+header
+{
+
+
+}
+
+header#header a
+{
+
+   font-weight: bold;
+
+}
+
+img#indian
+{
+
+
+}
+
+#down-arrow
+{
+
+
+}
+
+div#down-arrow img
+{
+  margin-top: 10px;
+  height: 30px;
+  width: 30px;
+}
+
+main
+{
+display: flex;
+}
+
+
+
+#box1 {
+   background-color: dodgerblue;
+   width: 50%;
+   height: 50%;
+
+ }
+
+ #box2 {
+   background-color: orangered;
+   width: 50%;
+   height: 50%;
+
+ }
+footer
+{
+
+}
